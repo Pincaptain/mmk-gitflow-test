@@ -1,2 +1,0 @@
-This is a new source file.
-I've fixed a bug.
